@@ -65,7 +65,7 @@ Also, since it is an "object", the time cost to find the type we want is constan
 The logic to solve the problem is in three steps:
 1. parse D1 position (element by element)
 2. Modify position according to D1 transaction and D0 position (element by element)
-3. report descripancy
+3. report discrepancy
 
 
 Assume D1-position has N elements
